@@ -1,0 +1,38 @@
+---
+title: "Assignment01"
+author: "Dili Li"
+date: "2022-09-09"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### My Git settings:
+user.name=DiliLi12
+user.email=dili.li@duke.edu
+jiandeMacBook-Pro:EDA-Fall2022 jianjiann$ 
+
+### My Git remote settings:
+origin  https://github.com/DiliLi12/EDA-Fall2022 (fetch)
+origin  https://github.com/DiliLi12/EDA-Fall2022 (push)
+upstream        https://github.com/ENV872/EDA-Fall2022 (fetch)
+upstream        DISABLE (push)
+jiandeMacBook-Pro:EDA-Fall2022 jianjiann$
+
+### My Git changes:
+2342d5a (HEAD -> main, origin/main, origin/HEAD) Create 02_Reproducibility_CodingBasics.Rmd
+d74b397 Adds 01_gitExercise.pdf
+20a7b70 Add data files
+f992081 Create Assignments folder
+972c063 Create Lessons folder
+34b6cc8 Create .gitignore
+a07d95c Initial commit
+jiandeMacBook-Pro:EDA-Fall2022 jianjiann$
+
+
+
+
+
+
